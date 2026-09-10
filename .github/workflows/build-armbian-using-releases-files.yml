@@ -248,6 +248,7 @@ on:
           - tpm312
           - tqc-a01
           - tvi3315a
+          - tx6s-axp313
           - vontar-h618
           - vplus
           - wocyber-a3
